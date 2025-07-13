@@ -2,7 +2,7 @@ import re
 from os import environ
 
 # Bot Session Name
-SESSION = environ.get('SESSION', 'TechVJBot')
+SESSION = environ.get('SESSION', 'WarriorUnitsBot')
 
 # Your Telegram Account Api Id And Api Hash
 API_ID = int(environ.get('API_ID', '23159366'))
