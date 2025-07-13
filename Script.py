@@ -8,11 +8,13 @@ class script(object):
     
 ✏️ I Am Video Player Bot, I Stream File On Website And Earn Unlimited Money 💰.
 
-Send Me Any VJDisk Link Or Any File To See My Power.✨
+Send Me Any Video Or Any File To See My Power.✨
 
 For Uploading File In Quality Option Use Command /quality
 
-More Commands Are /account , /update and /withdraw</b>"""
+More Commands Are /account , /update and /withdraw
+
+Join @WarriorUnitsBots and @Warrior_Units </b>"""
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
@@ -20,4 +22,5 @@ More Commands Are /account , /update and /withdraw</b>"""
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code>
+💰 Join : @WarriorUnitsBots </b>"""
