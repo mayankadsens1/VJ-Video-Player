@@ -18,7 +18,7 @@ ADMIN = int(environ.get('ADMIN', '5222155765'))
 BACKUP_BOT_TOKEN = environ.get('BACKUP_BOT_TOKEN', "")
 
 # Log Channel, In This Channel Your All File Stored.
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002807877721'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
 
 # Mongodb Database For User Link Click Count Etc Data Store.
 MONGODB_URI = environ.get("MONGODB_URI", "")
@@ -27,7 +27,7 @@ MONGODB_URI = environ.get("MONGODB_URI", "")
 STREAM_URL = environ.get("STREAM_URL", "")
 
 # This Link Used As Permanent Link That If Your Deploy App Deleted Then You Change Stream Url, So This Link Will Redirect To Stream Url.
-LINK_URL = environ.get("LINK_URL", "https://wuplayer.blogspot.com/p/player.html")
+LINK_URL = environ.get("LINK_URL", "")
 
 # Others, Not Usefull
 PORT = environ.get("PORT", "8080")
